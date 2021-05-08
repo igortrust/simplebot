@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/igortrust/simplebot/issues"
   },
-  "homepage": "https://github.com/igortrust/simplebot#readme"
+  "homepage": "https://github.com/igortrust/simplebot#readme",
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "^1.4.0",
+    "cron": "^1.8.2"
+  }
 }
