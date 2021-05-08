@@ -1,5 +1,5 @@
 # simplebot
-Simples bot do whatsapp com arquivamento de chats antigos usando o @wppconnect-team/wppconnect.
+Simples bot do whatsapp com arquivamento de chats antigos usando o https://wppconnect-team.github.io/.
 
 Ao iniciar o cliente um cronjob é agendado para arquivar as mensagens com mais de 30 dias sem interação. 
 
